@@ -1,0 +1,32 @@
+TokenAnnotator --> had to include Standord CoreNLP tools because no models for French and Spanish in OpenNLP
+TokenTypeAnnotator --> no language-specific modifications necessary
+SyllableAnnotater --> language-specific syllable pattern; define whether silent e is considered in language (no for both)
+SentenceAnnotator --> had to include Standord CoreNLP tools because no models for French and Spanish in OpenNLP
+LetterAnnotator --> no language-specific modifications necessary
+POSAnnotator --> had to include Stanford CoreNLP tools; uses UD tagset --> had to implement language-specific word categories (problem: cannot distinguish finite verbs (necessary for DLT integration cost))
+DependencyParseAnnotator --> include Stanford CoreNLP tools; uses UD tagset --> implement language-specific categories
+LemmatizerAnnotator --> just include lanugage models for Mate and update mate
+MorphologicalAnalyzerAnnotator --> just include language models for Mate
+
+MeanSentenceLength --> no language-specific modifications necessary
+NLetter --> no language-specific modifications necessary
+NSentence --> no language-specific modifications necessary
+NSyllable --> no language-specific modifications necessary
+NToken --> no language-specific modifications necessary
+NTokenType --> no language-specific modifications necessary
+MeanTokenLength --> no language-specific modifications necessary
+SDSentenceLength --> no language-specific modifications necessary
+SDTokenLength --> no language-specific modifications necessary
+TypeTokenRatio --> no language-specific modifications necessary
+POSDensity --> decide for each POS whether it is available in UD tagset and make available only for these POSs; no additional tags which have no correspondent to the existing ones of other languages
+LexicalVariationVerb --> no language-specific modifications necessary
+LexicalVariation --> no language-specific modifications necessary
+NSyntacticConstituent --> Fragments are not supported, because parser doesn't distinguish them. All features need language-specific tregex expressions to extract them from the parse trees
+SyntacticComplexity --> no language-specific modifications (all features supported because based on NSyntacticConstituent but fragments not used)
+LexicalSophistication --> those for which lists with forms (not lemmas) could be found. Lists with lemmas are compiled but not implemented because no lemmatizers are available from any libraries in Java for French or Spanish
+Words with 2 or more syllables --> nothing else needed (only language-specific syllable annotator)
+DLTIntegrationCost --> had to use morphological analysis to determine finite verbs becaus POS tagset does not support that
+PropositionalIdeaDensity --> feature had to be developed from scratch; had to add elements in word categories to apply rules defined in CPIDR
+
+NConnectives --> external lists of Breindl connectives
+CohesiveComplexity --> builds on NConnectives

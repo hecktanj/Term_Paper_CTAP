@@ -1,0 +1,329 @@
+https://de.scribd.com/doc/126150941/Frase-Nominal-Compleja --> complex noun phrases spanish
+https://books.google.de/books?id=44FyBgAAQBAJ&pg=PA247&lpg=PA247&dq=complex+noun+phrases+french&source=bl&ots=mWEJW3INU7&sig=ACfU3U2J19D4DcMCsNWUGy27CaoZcPFwFA&hl=de&sa=X&ved=2ahUKEwij2P3nisrpAhUDSBUIHQoKBsQQ6AEwEXoECAsQAQ#v=onepage&q=complex%20noun%20phrases%20french&f=false --> complex noun phrases French
+https://books.google.de/books?id=D0KuDYr-lU0C&pg=PA372&lpg=PA372&dq=%22complex+t-unit%22&source=bl&ots=35PR-OoiEQ&sig=ACfU3U2g0HHRhHbsa7Ft6hTWMdaNKIC8-Q&hl=de&sa=X&ved=2ahUKEwi7r8m2kszpAhWlRxUIHdVfB0AQ6AEwAHoECAcQAQ#v=onepage&q=%22complex%20t-unit%22&f=false --> complex t-unit
+https://examples.yourdictionary.com/examples-of-dependent-clauses.html --> dependent clauses
+https://books.google.de/books?id=euNksShlwUUC&pg=PA334&lpg=PA334&dq=%22est-ce+que%22++vp&source=bl&ots=aX5MWTxiYI&sig=ACfU3U3L9bTtmECqNLcWihy0dyvE8kTzdw&hl=de&sa=X&ved=2ahUKEwjzlJCku9PpAhVB26QKHQGeBksQ6AEwA3oECAUQAQ#v=onepage&q=%22est-ce%20que%22%20%20vp&f=false --> est-ce que often considered question marker (but disputed)
+https://dspace.aab-edu.net/bitstream/handle/123456789/703/fd23dd54-b22d-416e-9212-0a40b9a488cf.pdf?sequence=16&isAllowed=y --> postnomial modifiers
+
+--> exactly 1 occurrences if not indicated otherwise
+
+
+Clauses:
+Main clauses with a finite verb or imperative which do not just group multiple sub-clauses. --> Clauses which directly contain a verb phrase not contained in a subordinate clause.
+
+ES:
+Vayamos a la playa!
+Le gusta que cantes. --> 2 occurrences
+Te oigo cantar.
+Lo hago yendo.
+El hombre canta y la chica baila.
+La chica canta y baila.
+Se descansa y disfruta de la comida. --> 2 occurrences
+Conozco a la chica que baila. --> 2 occurrences
+Lo hago para ganar.
+
+FR:
+Prenez du repas.
+Prener du repas me plaît. --> 0 occurrences
+Il aime que tu chantes. --> 2 occurrences
+Elle chante et danse.
+Je t'écoute chanter.
+Elle chante et il danse. --> 2 occurrences
+Je connais la fille qui danse. --> 2 occurrences
+
+
+
+complex noun phrases:
+An NP which is not contained in another NP and contains at least a noun or pronoun and something other than a noun or pronoun or article.
+
+ES:
+Es el hombre que es simpático.
+Me gusta lo que has hecho.
+Es el hombre que tiene una hija que es simpática.
+Es un hombre. --> 0 occurrences
+
+FR:
+C'est l'homme qui est gentil.
+J'aime ce que tu es.
+C'est l'homme qui a une fille qui est sympa.
+C'est un homme. --> 0 occurrences
+C'est un homme gentil.
+
+
+coordinate phrases: --> cannot classify coordinations of more than 1 coordinate correctly because parser doesn't classify it correctly.
+Phrases linked with a coordinate conjunction.
+
+ES:
+El chico quiere a su novia y a su madre.
+Lee un libro y un periódico.
+El coche es muy rápido y bastante hermoso.
+Hay chicos y chicas.
+Trabaja, come y duerme.
+La chica es bonita y buena.
+Lo hace seriamente y felizmente.
+Le gusta bailar y su madre le ayuda.
+
+FR:
+Elle va au cinéma et fait les cours.
+Elle dort et mange et travaille.
+
+
+complex prepositional phrases:
+A (coordinate) PP which is not contained in another (coordinate) PP and which contains at least an adposition and a noun or pronoun and something other than a noun or pronoun or article or adposition.
+
+ES:
+Está encima de la mesa grande.
+Es el hombre con las gafas --> 0 occurrences
+Es el hombre con las gafas bonitas.
+Es el hombre con las gafas de color bonito.
+Lo hago con gran orgullo y para el bien de todos. --> 2 occurrences.
+
+FR:
+Elle est sous la grande table.
+C'est l'homme avec les lunettes. --> 0 occurrences
+C'est l'homme avec les lunettes de couleur jolie.
+La fourchette est sur la grande table et à côté de la cuillière petite. --> 2 occurrences
+
+complex t-units:
+A main clause which is not comtained in a suborinate clause or VP and which has at least 1 subordinate clause with its own main clause.
+
+ES:
+Nos quedamos hasta que fuimos a casa.
+Es el hombre que tiene perros que son bonitos.
+El hombre con los perros es simpáticos. --> 0 occurrences
+
+FR:
+Nous restons bien que j'aie peur.
+Nous restons après que la nuit ait tombé.
+C'est l'homme qui aime les chiens qui sont jolis.
+C'est l'homme qui est sympa.
+
+dependent clauses:
+A subordinate clause with a (coordinated) VP with or wihout introducint conjunction or pronoun.
+
+ES:
+Lo hago sin pensar.
+Lo digo aunque no sé qué pensar.
+No sé quién lo hizo.
+Viene para llevar el regalo.
+Quiero saber qué es.
+Viene para llevar el regalo y disfrutarse.
+Viene para llevar el regalo y para disfrutarse. --> 2 occurrences
+
+FR:
+Je sais où il est.
+Je te dis quoi faire.
+Il vient pour lui donner le cadeau.
+Il vient pour lui donner le cadeau et s'amuser.
+Il vient pour lui donner le cadeau et pour s'amuser. --> 2 occurrences
+
+
+verb phrases: 
+Not nested verb phrases. For English in addition verbs in question tags. For French excluding est-ce que patterns.
+
+ES: 
+Se va a casa.
+Nunca vas a hacerlo.
+Lo has visto?
+
+FR:
+Elle va a la maison.
+Elle ne l'a jamais fait.
+Est-ce qu'elle l'a fait?
+As-tu fait les devoirs?
+
+
+Verb clusters:
+Verb concatenations of 1 finite and many non-fnite forms. VP which contains multiple VPs as direct children and is not contained in another VP.
+
+ES:
+Tiene que querer quedarse.
+Quiere continuar jugando.
+Había sido envuelto.
+Se lo dice cantando.
+Lo dice intentando haber envuelto el regalo.
+
+FR:
+Il doit vouloir rester.
+Il doit avoir couru.
+Il veut continuer à jouer.
+Il a été enlevé.
+Il le dit croyant avoir donné le cadeau.
+
+
+T-units:
+Clause with conjugated verb or impreative and not introduced by relative pronoun or wh pronoun or subordinate conjunction. --> Main clause with all dependent clauses.
+
+ES:
+Se va a casa y ella lee su libro. --> 2 occurrences
+Se iba a casa después de terminar su trabajo.
+
+FR:
+Il va à la maison quand il a terminé son travail.
+C'est l'école où nous allons et je suis heureuse.
+Il va à la maison après avoir fini le travail.
+Il va à la maison et elle lit son livre. --> 2 occurrences
+
+
+sentences: 
+'.'-separated text snippets.
+
+ES:
+Se va a casa. Ella no hace nada. --> 2 occurrences
+
+FR:
+Il fait tout le travail. Elle ne l'aide pas. --> 2 occurrences
+
+
+relative clauses:
+Clause introduced by relative pronoun.
+
+ES:
+Es el hombre que nunca duerme.
+Es el hombre cuya hija me gusta tanto.
+Es la chica por la cual lo hago todo.
+
+FR:
+C'est l'home qui m'aime.
+C'est l'homme que j'aime.
+C'est l'homme à qui je donne l'argent.
+
+
+prenominal modifiers:
+Adjective phrase (or cardinal number) before noun or pronoun.
+
+ES:
+Sólo él tiene un perro.
+Es un buen ejemplo.
+Tiene dos gran perros. --> 2 occurrences
+Tiene sólo dos perros --> 2 occurrences
+
+FR:
+Il a deux chiens.
+Il a un joli chien.
+Il a un très joli chien. --> 2 occurrences
+Ce sont deux très jolis chiens. --> 3 occurrences
+
+
+Prepositional phrases:
+PPs which contain noun or pronoun and preposition and are not nested in another PP.
+
+ES:
+Lo hizo por ella.
+Lo hizo por la chica.
+Le ayudó con una alegría sin comparación.
+
+FR:
+Il le faisait pour elle.
+Il le faisait pour la fille.
+Il l'aidait avec une joie sans comparaison.
+
+
+postnomial modifiers:
+NP, PP, AdvP, cardinal number or multiword proper noun which follows a noun or pronoun that is not part of a higher NP or PP.
+
+ES:
+Es el perro con los puntos.
+El pirata Jack Sparrow es famoso.
+El perro grande es bonito.
+Es aquello con los puntos.
+Es María de al lado.
+Hay un ejemplo en página diez.
+Es la chica cantando bonitamente.
+Es la chica envuelta en misterios.
+
+FR:
+C'est l'homme avec le chien.
+C'est celui avec le chien.
+Marie avec le chien est mon amie.
+Le pirate Jack Sparrow est populaire.
+Le pirate Jack est populaire.
+Le chien joli est le mien.
+Il y a un exemple sur page dix.
+C'est la fille chantant.
+C'est la fille retournée.
+C'est la fille à demander.
+C'est Jack le pirate.
+Regardez page dix.
+
+noun phrases:
+NPs which are not conatined in another NP.
+
+ES:
+El hombre con el perro es simpático.
+Es el hombre conozcando a mi hija.
+Es el hombre enamorado de mi hija.
+El hombre y la mujer preparados para todo me ayudan.
+
+FR:
+C'est l'homme avec le chien.
+L'homme et la femme avec le chien sont sympas.
+Je vois un homme traversant la rue.
+
+
+
+Words before main verb:
+
+ES:
+He limpiado la casa.
+Necesito continuar a hacer mis deberes.
+Necesito continuar haciendo mis deberes.
+Limpiar es lo que quise hacer.
+Empezar a limpiar la casa es lo que quise hacer.
+Para limpiar, necesito agua.
+Has empezado a limipiar la casa?
+He hecho mis deberes.
+Veo la tele limpiando.
+Veo una película limpiando.
+Limpiando, veo una película.
+Necesito hacer los deberes y quiero que me ayudes.
+
+EN:
+I did empty the trash.
+I want to continue doing my homework.
+I want to start to do my homework.
+Emtpy the trash is what I did.
+To empty the trash I need to go outside.
+Did you empty the trash?
+Start doing your homework!
+Have you started doing your homework?
+I have done my homework.
+I have been doing my homework.
+Going home I enjoy myself.
+I enjoy myself going home.
+
+FR:
+J'ai fait mes devoirs.
+Je dois continuer à faire mes devoirs.
+Jouer est ce que je voulais faire.
+C'est bizarre.
+Je joue du piano.
+Est-ce que tu veux manger?
+Peux-tu jouer?
+Commencer à jouer est ce que je voulais faire.
+Pour jouer, je vais aller dehors.
+Je vais aller dehors pour jouer.
+Tu as fait les devoirs?
+Je parle en courant.
+En courant, je parle.
+Je dois faire les devoirs et jouer du piano.
+Je suis allée à l'école.
+Il lui a été donné.
+C'est le livre donné par eux.
+
+
+Double embedded dependent clauses:
+EN:
+A man came to the house where the woman lived who had two children.
+A man came to the house where the woman lived and where the child was born. --> 0 occurrences
+A man came to the house where the woman lived. --> 0 occurrences.
+
+ES:
+Un hombre viene a la casa donde vive la mujer que tiene dos hijos.
+Un hombre viene a la casa donde vive la mujer y donde nació el bebé. --> 0 occurrences
+Un hombre viene a la casa donde vive la mujer. --> 0 occurrences
+
+FR:
+Un homme vient à la maison où une femme vit qui a deux enfants.
+Un homme vient à la maison où une femme vit et où l'enfant est né. --> 0 occurrences
+Une homme vient à la maison oú une femme vit. --> 0 occurrences

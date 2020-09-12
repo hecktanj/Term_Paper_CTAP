@@ -1,0 +1,142 @@
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (higher verb weight)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (higher verb weight)
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (original cost configuration)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (original cost configuration)
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (less coordination weight + higher verb weight)
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (no modifier weight)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (less coordination weight + higher verb weight)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight)
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (less coordination weight)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (less coordination weight)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight + less coordination weight)
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (no modifier weight + less coordination weight + added verb weight)
+Cognitive Complextiy	Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight + less coordination weight + added verb weight)
+Cognitive Complextiy	Dependency Locality Theory: Total IC at Finite Verb (no modifier weight + less coordination weight)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (less coordination weight)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (no modifier weight + less coordination weight)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (no modifier weight + less coordination weight + added verb weight)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (less coordination weight + added verb weight)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (no modifier weight)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (original cost configuration)
+Cognitive Complextiy	Dependency Locality Theory: High Adjacent IC at Finite Verb (higher verb weight)
+Lexical Complexity	Lexical Variation Feature: Squared Verb Variation 1
+Lexical Complexity	Lexical Variation Feature: Lexical
+Lexical Complexity	Lexical Variation Feature: Corrected Verb Variation 1
+Lexical Complexity	Lexical Variation Feature: Verb Variation 1
+Lexical Complexity	Lexical Variation Feature: Verb
+Lexical Complexity	Lexical Variation Feature: Noun
+Lexical Complexity	Lexical Variation Feature: Modifier
+Lexical Complexity	Lexical Variation Feature: Adverb
+Lexical Complexity	Lexical Variation Feature: Adjective
+Syntactic Complexity	Mean Sentence Length in Tokens
+Syntactic Complexity	Mean Sentence Length in Syllables
+Syntactic Complexity	Mean Sentence Length in Letters
+Lexical Complexity	Mean Token Length in Syllables
+Lexical Complexity	Mean Token Length in Letters
+General Text Length	Number Of Letters
+General Text Length	Number of Sentences
+General Text Length	Number of syllables
+Syntactic Complexity	Number of Syntactic Constituents: Double embedded dependent Clauses
+Syntactic Complexity	Number of Syntactic Constituents: T-units
+Syntactic Complexity	Number of Syntactic Constituents: Sentences
+Syntactic Complexity	Number of Syntactic Constituents: Clauses
+Syntactic Complexity	Number of Syntactic Constituents: Words before main verb
+Syntactic Complexity	Number of Syntactic Constituents: Verb Phrase
+Syntactic Complexity	Number of Syntactic Constituents: Verb Cluster
+Syntactic Complexity	Number of Syntactic Constituents: Relative Clauses
+Syntactic Complexity	Number of Syntactic Constituents: Prenominal Noun Modifier
+Syntactic Complexity	Number of Syntactic Constituents: Complex Noun Phrase
+Syntactic Complexity	Number of Syntactic Constituents: Postnominal Noun Modifier
+Syntactic Complexity	Number of Syntactic Constituents: Prepositional Phrase
+Syntactic Complexity	Number of Syntactic Constituents: Noun Phrase
+Syntactic Complexity	Number of Syntactic Constituents: Dependent Clauses
+Syntactic Complexity	Number of Syntactic Constituents: Complex T-units
+Syntactic Complexity	Number of Syntactic Constituents: Complex Prepositional Phrase
+Syntactic Complexity	Number of Syntactic Constituents: Coordinate Phrases
+General Text Length	Number of Tokens
+Lexical Complexity	Number of Word Types
+Morpho-syntactic Complexity	POS Density Feature: Verb
+Morpho-syntactic Complexity	POS Density Feature: Symbol
+Morpho-syntactic Complexity	POS Density Feature: Subordinating Conjunction
+Morpho-syntactic Complexity	POS Density Feature: Punctuation
+Morpho-syntactic Complexity	POS Density Feature: Proper Noun
+Morpho-syntactic Complexity	POS Density Feature: Pronoun
+Morpho-syntactic Complexity	POS Density Feature: Preposition
+Morpho-syntactic Complexity	POS Density Feature: Noun
+Morpho-syntactic Complexity	POS Density Feature: Particle
+Morpho-syntactic Complexity	POS Density Feature: Lexical Words
+Morpho-syntactic Complexity	POS Density Feature: Interjection
+Morpho-syntactic Complexity	POS Density Feature: Modifier
+Morpho-syntactic Complexity	POS Density Feature: Functional Words
+Morpho-syntactic Complexity	POS Density Feature: Coordinating Conjunction
+Morpho-syntactic Complexity	POS Density Feature: Conjunction
+Morpho-syntactic Complexity	POS Density Feature: Cardinal Number
+Morpho-syntactic Complexity	POS Density Feature: Adverb
+Morpho-syntactic Complexity	POS Density Feature: Common Noun
+Morpho-syntactic Complexity	POS Density Feature: Auxiliary Verb
+Morpho-syntactic Complexity	POS Density Feature: Adjective
+Cognitive Complextiy	Propositional Idea Density Feature
+Syntactic Complexity	SD Sentence Length in Syllables
+Syntactic Complexity	SD Sentence Length in Tokens
+Syntactic Complexity	SD Sentence Length in Letters
+Lexical Complexity	SD Token Length in Syllables
+Lexical Complexity	SD Token Length in Letters
+Syntactic Complexity	Syntactic Complexity Feature: Double embedded dependent clauses per T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Double embedded dependent clauses per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Double embedded dependent clause ratio
+Syntactic Complexity	Syntactic Complexity Feature: Words before main verb per sentence.
+Syntactic Complexity	Syntactic Complexity Feature: Verb Phrases per T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Verb Cluster per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Verb Cluster per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Verb Phrases per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Verb Phrases per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Verb Cluster per T-Unit
+Syntactic Complexity	Syntactic Complexity Feature: Sentence Coordination Ratio
+Syntactic Complexity	Syntactic Complexity Feature: Relative Clauses per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Relative Clauses per T-Unit
+Syntactic Complexity	Syntactic Complexity Feature: Relative Clauses per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Prenominal Modifier per Complex Noun Phrase
+Syntactic Complexity	Syntactic Complexity Feature: Postnominal Modifier per Complex Noun Phrase
+Syntactic Complexity	Syntactic Complexity Feature: Prepositional Phrases per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Noun Phrases per T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Prepositional Phrases per T-Unit
+Syntactic Complexity	Syntactic Complexity Feature: Noun Phrases per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Noun Phrases per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Prepositional Phrases per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Mean Length of Verb Cluster
+Syntactic Complexity	Syntactic Complexity Feature: Mean Length of T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Mean Length of Prepositional Phrase
+Syntactic Complexity	Syntactic Complexity Feature: Mean Length of Noun Phrase
+Syntactic Complexity	Syntactic Complexity Feature: Mean Length of Clause
+Syntactic Complexity	Syntactic Complexity Feature: Dependent clause ratio
+Syntactic Complexity	Syntactic Complexity Feature: Dependent clauses per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Mean Length of Complex T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Complex T-unit Ratio
+Syntactic Complexity	Syntactic Complexity Feature: Dependent clauses per T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Complex T-unit per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Complex Prepositional Phrases per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: Complex Prepositional Phrases per T-Unit
+Syntactic Complexity	Syntactic Complexity Feature: Complex Prepositional Phrases per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Coordinate Phrases per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Coordinate Phrases per T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Coordinate Phrases per Sentence
+Syntactic Complexity	Syntactic Complexity Feature: T-unit complexity ratio
+Syntactic Complexity	Syntactic Complexity Feature: Sentence Complexity Ratio
+Syntactic Complexity	Syntactic Complexity Feature: Complex Nominals per T-unit
+Syntactic Complexity	Syntactic Complexity Feature: Complex Nominals per Clause
+Syntactic Complexity	Syntactic Complexity Feature: Complex Nominals per Sentence
+Lexical Complexity	Lexical Richness: Type Token Ratio (TTR)
+Lexical Complexity	Lexical Richness: Type Token Ratio (Uber)
+Lexical Complexity	Lexical Richness: Type Token Ratio (Root TTR)
+Lexical Complexity	Lexical Richness: Type Token Ratio (Log TTR)
+Lexical Complexity	Lexical Richness: Type Token Ratio (Corrected TTR)
+Lexical Complexity	Number of Tokens with More Than 2 Syllables
+Lexical Complexity	Percentage of Word Types with More Than 2 Syllables
+Lexical Complexity	Number of Word Types with More Than 2 Syllables
+Lexical Complexity	Percentage of Tokens with More Than 2 Syllables
+Lexical Complexity	Lexical Sophistication Feature: Word Frequency per Million Words (LW Type)
+Lexical Complexity	Lexical Sophistication Feature: Word Frequency per Million Words (LW Token)
+Lexical Complexity	Lexical Sophistication Feature: Word Frequency per Million Words (FW Type)
+Lexical Complexity	Lexical Sophistication Feature: Word Frequency per Million Words (FW Token)
+Lexical Complexity	Lexical Sophistication Feature: Word Frequency per Million Words (AW Type)
+Lexical Complexity	Lexical Sophistication Feature: Word Frequency per Million Words (AW Token)
